@@ -1,7 +1,7 @@
 # Magic Deck Builder with LangGraph Agents
 
 A web app that leverages **LangChain/LangGraph agents** and large language models to generate custom Magic: The Gathering decks tailored around a commander of your choice.
-![DeckBuilderImage](app.png)
+![DeckBuilderImage](app.PNG)
 ---
 
 ## Overview
